@@ -7,8 +7,9 @@ void help_exit(void);
 void help_help(void);
 
 /**
- * help_all - Displays all possible builtin shellby commands.
+ * help_all - Displays all possible builtin shell by commands.
  */
+
 void help_all(void)
 {
 	char *msg = "Shellby\nThese shell commands are defined internally.\n";
