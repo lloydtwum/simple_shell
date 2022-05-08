@@ -1,6 +1,6 @@
 /*
  * File: builtin.c
- * Auth: Sarpong Twum Barimah & Francesca Asare
+ * Auth: Sarpong Twum Barimah & Francesca Lynn Asiedu Asare
  *       
  */
 
