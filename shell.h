@@ -1,3 +1,7 @@
+/**
+*Auth: Sarpong Twum Barimah & Francesca Lynn Asiedu Asare
+*/
+
 #ifndef _SHELL_H_
 #define _SHELL_H_
 
