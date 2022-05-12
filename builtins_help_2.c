@@ -1,3 +1,7 @@
+/**
+*Auth: Sarpong Twum Barimah & Francesca Lynn Asiedu Asare
+*/
+
 #include "shell.h"
 
 void help_env(void);
@@ -8,6 +12,7 @@ void help_history(void);
 /**
  * help_env - Displays information on the shellby builtin command 'env'.
  */
+
 void help_env(void)
 {
 	char *msg = "env: env\n\tPrints the current environment.\n";

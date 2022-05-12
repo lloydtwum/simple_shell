@@ -1,3 +1,7 @@
+/**
+*Auth: Sarpong Twum Barimah & Francesca Lynn Asiedu Asare
+*/
+
 #include "shell.h"
 
 void help_all(void);
@@ -9,6 +13,7 @@ void help_help(void);
 /**
  * help_all - Displays all possible builtin shellby commands.
  */
+
 void help_all(void)
 {
 	char *msg = "Shellby\nThese shell commands are defined internally.\n";
