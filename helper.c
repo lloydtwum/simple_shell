@@ -1,6 +1,6 @@
 /*
  * File: helper.c
- * Auth: Sarpong Twum Barimah  & Francesca
+ * Auth: Sarpong Twum Barimah  & Francesca Lynn Asiedu Asare
  */
 
 #include "shell.h"
