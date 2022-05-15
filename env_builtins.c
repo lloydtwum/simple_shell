@@ -1,6 +1,6 @@
 /*
  * File: env_builtins.c
- * Auth: Sarpong Twum Barimah & Francesca
+ * Auth: Sarpong Twum Barimah & Francesca Lynn Asiedu Asare
  *       
  */
 
