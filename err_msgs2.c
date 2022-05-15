@@ -1,6 +1,6 @@
 /*
  * File: err_msgs2.c
- * Auth: Sarpong Twum Barimah
+ * Auth: Sarpong Twum Barimah and Francesca Lynn Asiedu Asare
  *      
  */
 
