@@ -1,6 +1,6 @@
 /*
  * File: environ.c
- * Auth: Sarpong Twum barimah & Francesca        
+ * Auth: Sarpong Twum Barimah and Francesca Lynn Asiedu Asare       
  */
 
 #include "shell.h"
